@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauravkumar_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravkumar_12" height="30" width="40" /></a>
+<a href="https://twitter.com/sauravkumar__12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravkumar__12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurav-kumar-16710920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-kumar-16710920b" height="30" width="40" /></a>
 <a href="https://kaggle.com/sauravkumar0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sauravkumar0102" height="30" width="40" /></a>
 <a href="https://instagram.com/sauravkumar_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravkumar_12" height="30" width="40" /></a>
