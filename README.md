@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **Electronics and Instrumentation Engineering**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Power BI**
 
 - 👯 I'm looking to collaborate with other **Data Analysts**
 
